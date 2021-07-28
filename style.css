@@ -1,0 +1,42 @@
+body {
+    background-image: linear-gradient(pink, purple);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+  }
+  
+  h1, #designed-by Mia {
+   background-color: aqua;
+   color:magenta;
+   text-align: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  }
+  
+  .style1 {
+    background-color: #9B9A9A;
+  }
+  
+  .style2 {
+    background-color: #9B9A9A;
+  }
+  
+  .style3 {
+    background-color: #9B9A9A;
+  }
+  
+  .style4 {
+    background-color: #9B9A9A;
+  }
+  
+  .style5 {
+    background-color: #9B9A9A;
+  }
+  
+  .style6 {
+    background-color: #9B9A9A;
+  }
+  
+  /* SETTING THE COLOR OF THE BOX TEXT */
+  .tiles .box-wrapper > a {
+    color:pink;
+  }
